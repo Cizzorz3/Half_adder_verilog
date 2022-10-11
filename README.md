@@ -15,4 +15,14 @@ Schematic :
 
 
 Truth Table :
+
+
+
 ![half-adder-truth-table](https://user-images.githubusercontent.com/77931158/195058902-a986ed1f-2471-448f-ab1e-dd66b1b43055.png)
+
+
+
+
+Wave Simulation
+
+![Screenshot 2022-10-11 125815](https://user-images.githubusercontent.com/77931158/195059516-de8ad691-a451-46d1-9534-003e5efa3912.png)

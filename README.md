@@ -1,7 +1,7 @@
 # Half_adder_verilog
 
 
-This is an implemintation of half adder circuit in verilog 0.10.0
+This is an implemintation of half adder circuit using Icarus verilog 0.10.0
 
 Half adder is a combinational arithmetic circuit that adds two numbers and produces a sum bit (s) and carry bit (c) both as output.
 The addition of 2 bits is done using a combination circuit called a Half adder.
